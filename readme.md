@@ -1,4 +1,4 @@
-# Media repository
+# Media repository [![Version](https://img.shields.io/github/tag/EricCrosson/follow-current-buffer-demo.svg)](https://github.com/EricCrosson/follow-current-buffer-demo/releases)
 
 > Dummy project to keep media files separate from code
 
